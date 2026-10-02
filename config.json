@@ -18,7 +18,7 @@
     "nodeLabel": "DSA proposal"
   },
   "features": {
-    "search": true,
+    "search": false,
     "groupSelectorAttribute": false,
     "hoverBehavior": "default"
   },
@@ -37,11 +37,11 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 20
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 5,
+      "minEdgeSize": 3,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
