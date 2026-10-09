@@ -10,15 +10,15 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": ""
+    "title": "DSA Resolution Network"
   },
   "legend": {
-    "edgeLabel": "Jaccard similarity of cosponsor sets \u003e 0.25",
-    "colorLabel": "",
-    "nodeLabel": "DSA proposal"
+    "edgeLabel": "Similarity of cosponsor sets (jaccard similarity \u003e 0.25)",
+    "colorLabel": "Community label through modularity optimization",
+    "nodeLabel": "Resolution"
   },
   "features": {
-    "search": false,
+    "search": true,
     "groupSelectorAttribute": false,
     "hoverBehavior": "default"
   },
@@ -37,11 +37,11 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 20
+      "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 5,
-      "minEdgeSize": 3,
+      "maxEdgeSize": 4,
+      "minEdgeSize": 1,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
