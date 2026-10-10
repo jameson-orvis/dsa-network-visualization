@@ -2,402 +2,502 @@ graph [
   node [
     id 0
     label "$1.25M: Funding a Fighting Working Class"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 1
     label "Budget Working Group Priority Status Resolution"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 2
     label "Build Community Safety through Prevention, Not Policing"
+    betweenness 0.1628065811739281
   ]
   node [
     id 3
     label "Build New Black and Latino Democratic Socialist Electorates through Campaigns for President and US Senate in 2028"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 4
     label "Build The Party!"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 5
     label "Bylaws Amendment: Formalize SIO Coordinator Representation on Steering"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 6
     label "Bylaws Amendment: Standardize Board Composition"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 7
     label "DSA The Vote!"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 8
     label "Ecosocialist Working Group Priority Campaign Proposal"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 9
     label "Enhance Chapter Democracy Through an Empowered Citywide Leadership Committee"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 10
     label "For The Establishment of a Code of Conduct Review Board for Chapter-Wide Code of Conduct Matters"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 11
     label "Formalizing the Youth Wing of NYC-DSA"
+    betweenness 0.0
   ]
   node [
     id 12
     label "From Brooklyn to Buffalo: Building DSA Electoral Power Statewide"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 13
     label "Group Definitions and Standards"
+    betweenness 0.0005217458278682769
   ]
   node [
     id 14
     label "Local Membership and Bylaws Clarification"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 15
     label "NYC DSA Hiring Guidelines &#38; Prioritization"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 16
     label "NYC-DSA and Strengthening Our Press Strategy"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 17
     label "No Socialism on a Dead Planet"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 18
     label "On Branch Geography"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 19
     label "One Big Election"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 20
     label "Organize our Base: Black and Latinx Membership Drive"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 21
     label "Party Over Campaign"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 22
     label "Party Over Politician"
+    betweenness 0.0
   ]
   node [
     id 23
     label "Paying Full-Time Leadership to Organize a Socialist Agenda through Mayoral and Electoral Coordination"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 24
     label "Put Members First: Hire an additional Membership Staffer"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 25
     label "Resolution on the 2029 City Council Strategy: Electing a Socialist Speaker and Building an Independent Socialist Pole"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 26
     label "Run AOC 2028 To Win A Democratic Socialist President"
+    betweenness 0.0041122596224636996
   ]
   node [
     id 27
     label "Sustaining Engagement, Retention, and Leadership Cultivation of South Asian Working-Class Socialists in NYC-DSA"
+    betweenness 0.0003133374561945992
   ]
   node [
     id 28
     label "2026 Update To Mass Election Strategy For NYC-DSA"
+    betweenness 0.0
   ]
   node [
     id 29
     label "A Constitutional Working Group Definition"
+    betweenness 0.0
   ]
   node [
     id 30
     label "Addressing Gaps &#38; Oversights in our Bylaws Regarding Electoral Endorsement Process"
+    betweenness 0.0
   ]
   node [
     id 31
     label "Building Socialism Requires Tackling Amazon"
+    betweenness 0.0
   ]
   node [
     id 32
     label "Clarifying NYC-DSA&#8217;s Candidate Recruitment Strategy"
+    betweenness 0.0
   ]
   node [
     id 33
     label "District Organizing With Socialists in Office"
+    betweenness 0.0
   ]
   node [
     id 34
     label "For A Renewed Youth Wing in NYC-DSA"
+    betweenness 0.025561739847454138
   ]
   node [
     id 35
     label "For The Mass Engagement for the Socialist Youth"
+    betweenness 0.00979179550608122
   ]
   node [
     id 36
     label "For a Unified and Democratic Chapter Proposal Process"
+    betweenness 0.00022086756780634326
   ]
   node [
     id 37
     label "NYC-DSA and a Mass Labor-Left Movement"
+    betweenness 0.0
   ]
   node [
     id 38
     label "Organizing to Win: Develop NYC-DSA&#8217;s capacity to research and execute new organizing campaigns with labor movement allies"
+    betweenness 0.0
   ]
   node [
     id 39
     label "Resolution for Fiscal Support for Branches &#38; Priority Campaigns"
+    betweenness 0.0
   ]
   node [
     id 40
     label "Support the Campaign to Close Rikers"
+    betweenness 0.0
   ]
   node [
     id 41
     label "Advance worker ownership"
+    betweenness 0.0
   ]
   node [
     id 42
     label "Affirm NYC-DSA&#8217;s Commitment to Equity: A Task Force to Promote Equitable Organizing Culture"
+    betweenness 0.0
   ]
   node [
     id 43
     label "Democracy and Unity: Representative Bylaws for NYC-DSA"
+    betweenness 0.020313435619558062
   ]
   node [
     id 44
     label "Democratize the Budget, Empower Membership"
+    betweenness 0.04545601790499749
   ]
   node [
     id 45
     label "FOR A DEMOCRATIC SOCIALIST INTERVENTION IN THE 2028 ELECTIONS"
+    betweenness 0.00265041081367612
   ]
   node [
     id 46
     label "FOR A SOCIALIST LABOR MOVEMENT AND A FIGHTING LABOR WORKING GROUP IN NYC-DSA"
+    betweenness 0.00265041081367612
   ]
   node [
     id 47
     label "LANGUAGE EXCHANGE &#38; ASAMBLEAS COMUNITARIAS: ENVISIONING A MULTILINGUAL NYC-DSA"
+    betweenness 0.006127357147765311
   ]
   node [
     id 48
     label "SOCIALISTS IN SOLIDARITY WITH NYCHA RESIDENTS AGAINST DEMOLITION OF FULTON &#38; ELLIOTT-CHELSEA"
+    betweenness 0.00265041081367612
   ]
   node [
     id 49
     label "Suffrage for All: From Voter Registration to Voting Rights"
+    betweenness 0.02379038195364726
   ]
   node [
     id 50
     label "Amendment for the Unity of DSA"
+    betweenness 0.035477221191506904
   ]
   node [
     id 51
     label "Democratizing NYC-DSA: Governing Through the General Membership A Proposal for Quarterly General Membership Meetings"
+    betweenness 0.0
   ]
   node [
     id 52
     label "Pro/Con Motivations for Online Branch Votes"
+    betweenness 0.000484436198721913
   ]
   node [
     id 53
     label "Proposal to Create a Modern Principles of Socialism Primer"
+    betweenness 0.0
   ]
   node [
     id 54
     label "Resolution for an Official NYC-DSA Subforum on DSA Discussion"
+    betweenness 0.011049268192125332
   ]
   node [
     id 55
     label "The Working Group Amendment"
+    betweenness 0.0
   ]
   node [
     id 56
     label "The Working Group Resolution"
+    betweenness 0.0
   ]
   node [
     id 57
     label "Annual Membership Drive"
+    betweenness 0.0
   ]
   node [
     id 58
     label "Ban the Bots! For Human-Written, LLM-Free Communications in NYC-DSA"
+    betweenness 0.0
   ]
   node [
     id 59
     label "Creating an NYC-DSA Job Board &#38; Campaign Staff Pipeline"
+    betweenness 0.002473716759431045
   ]
   node [
     id 60
     label "NYC-DSA for a $30 Minimum Wage ($30 by '30)"
+    betweenness 0.0
   ]
   node [
     id 61
     label "Strike Ready"
+    betweenness 0.0
   ]
   node [
     id 62
     label "Building a YDSA Development Pipeline Through Mentorship"
+    betweenness 0.0
   ]
   node [
     id 63
     label "For Training New YDSA Leaders Through An Organizing Program"
+    betweenness 0.004019789734075449
   ]
   node [
     id 64
     label "Strengthening the Youth Wing Through Campaigns"
+    betweenness 0.008245722531436817
   ]
   node [
     id 65
     label "Building the party door by door with Membership Menus"
+    betweenness 0.0
   ]
   node [
     id 66
     label "Calling on NYC-DSA to Build Solidarity Within NYC&#8217;s Puerto Rican Diaspora"
+    betweenness 0.0
   ]
   node [
     id 67
     label "Can You Do The Con Con 2037?"
+    betweenness 0.0
   ]
   node [
     id 68
     label "Democratize NY WG: Create a Committee to formalize NYC-DSA&#8217;s position towards the New York City Charter"
+    betweenness 0.0005153576582148011
   ]
   node [
     id 69
     label "Democratize NY WG: Endorse Proportional Representation for NYC and Beyond"
+    betweenness 0.0005153576582148011
   ]
   node [
     id 70
     label "Childcare For All: Fair Pay, Not Private Profits"
+    betweenness 0.0
   ]
   node [
     id 71
     label "Community Board Organizing and Support Project"
+    betweenness 0.002473716759431045
   ]
   node [
     id 72
     label "Create a Staten Island Branch of NYC-DSA"
+    betweenness 0.0
   ]
   node [
     id 73
     label "Increase Citywide Priority Campaign Funding"
+    betweenness 4.1228612657184085E-05
   ]
   node [
     id 74
     label "Support the No More 24 Movement!"
+    betweenness 0.012368583797155224
   ]
   node [
     id 75
     label "Develop our middle layer of leaders through standardized leadership onboarding"
+    betweenness 0.0
   ]
   node [
     id 76
     label "Embracing The RED DEAL + The GREEN NEW DEAL, 400 Yrs. After the &#34;Purchase&#34; of Mannahatta"
+    betweenness 0.0
   ]
   node [
     id 77
     label "Endorse AOC for President"
+    betweenness 0.0
   ]
   node [
     id 78
     label "Establishing the NYC Rose Desk, a Research and Data Working Group"
+    betweenness 0.0
   ]
   node [
     id 79
     label "Food Cooperatives"
+    betweenness 0.0
   ]
   node [
     id 80
     label "For Keffiyeh and Vyshyvanka"
+    betweenness 0.0
   ]
   node [
     id 81
     label "For More A Democratic and Transparent NYC-DSA Leadership"
+    betweenness 0.0
   ]
   node [
     id 82
     label "For Peace and Cooperative Prosperity, Against Empire and Austerity: Mobilizing NYC-DSA to End the War Economy and Initiate a Foreign Policy for the Working Class"
+    betweenness 0.0
   ]
   node [
     id 83
     label "Get behind Trump impeachment under Rule IX"
+    betweenness 0.0
   ]
   node [
     id 84
     label "Healthcare for All Priority Campaign Proposal"
+    betweenness 0.0
   ]
   node [
     id 85
     label "Immigrant Solidarity, Migratory Reform, and a Path to Citizenship"
+    betweenness 0.0
   ]
   node [
     id 86
     label "Just Say NO to AOC"
+    betweenness 0.0
   ]
   node [
     id 87
     label "LEAD THE CAMPAIGN FOR A PUBLIC BANK OF NEW YORK CITY"
+    betweenness 0.0
   ]
   node [
     id 88
     label "NYC-DSA Resolution: 1% for Parks and 0.5% for Libraries"
+    betweenness 0.0
   ]
   node [
     id 89
     label "NYC-DSA Tech Action&#8217;s AI Agenda for New York City"
+    betweenness 0.0
   ]
   node [
     id 90
     label "ORGANIZE WITH PUBLIC HOUSING RESIDENTS AND WORKERS FOR BETTER CONDITIONS &#38; AN END TO &#8220;DEMOCRACY FOR SOME&#8221;"
+    betweenness 0.0
   ]
   node [
     id 91
     label "Parking Reform"
+    betweenness 0.0
   ]
   node [
     id 92
     label "Resolution For A NYC-DSA Holistic Deep Organizing Program"
+    betweenness 0.0
   ]
   node [
     id 93
     label "Resolution for Economic Justice: Paraprofessional Wage Scaling and Strategic Alliance"
+    betweenness 0.0
   ]
   node [
     id 94
     label "Resolution to create a Congressional Socialist Caucus"
+    betweenness 0.0
   ]
   node [
     id 95
     label "Scaffolding - Access Denied from Playgrounds to Trash Bins"
+    betweenness 0.0
   ]
   node [
     id 96
     label "Socialist Feminism for All in NYC-DSA"
+    betweenness 0.0
   ]
   node [
     id 97
     label "Stop the AI Arms Race!"
+    betweenness 0.0
   ]
   node [
     id 98
     label "To Boost Education Organizing in NYC DSA"
+    betweenness 0.0
   ]
   node [
     id 99
     label "Towards Centering Disability in NYC-DSA"
+    betweenness 0.0
   ]
   edge [
     source 0
